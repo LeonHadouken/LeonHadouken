@@ -130,16 +130,6 @@
   <img src="https://img.shields.io/badge/-theHarvester-800080?style=flat-square">
   <img src="https://img.shields.io/badge/-XSStrike-FF6600?style=flat-square">
   <img src="https://img.shields.io/badge/-WhatWeb-FF0000?style=flat-square">
-  <img src="https://img.shields.io/badge/-John_the_Ripper-512B2B?style=flat-square">
-  <img src="https://img.shields.io/badge/-Sqlmap-9F3E3E?style=flat-square">
-  <img src="https://img.shields.io/badge/-OpenVAS-00A95C?style=flat-square">
-  <img src="https://img.shields.io/badge/-ZAP-00549E?style=flat-square&logo=owasp&logoColor=white">
-  <img src="https://img.shields.io/badge/-AirCrack-008080?style=flat-square">
-  <img src="https://img.shields.io/badge/-Responder-4B0082?style=flat-square">
-  <img src="https://img.shields.io/badge/-Impacket-708090?style=flat-square">
-  <img src="https://img.shields.io/badge/-BloodHound-8B0000?style=flat-square">
-  <img src="https://img.shields.io/badge/-Mimikatz-000000?style=flat-square">
-  <img src="https://img.shields.io/badge/-Hashcat-FF4500?style=flat-square">
 </div>
       </div>
     </td>
