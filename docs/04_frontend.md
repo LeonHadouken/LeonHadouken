@@ -26,9 +26,10 @@
 
 ---
 
-**Навигация:**
 <div align="center">
   <a href="03_devops.md"><img src="https://img.shields.io/badge/☁️-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps"></a>
   <a href="../README.md"><img src="https://img.shields.io/badge/🏠-На_главную-808080?style=for-the-badge" alt="На главную"></a>
   <a href="05_security.md"><img src="https://img.shields.io/badge/🔒-Безопасность-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Безопасность"></a>
 </div>
+
+---

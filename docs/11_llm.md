@@ -11,8 +11,9 @@
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
-  <a href="10_networking.md"><img src="https://img.shields.io/badge/🌐-Сети-1E90FF?style=for-the-badge&logo=openvpn&logoColor=white" alt="Сети"></a>
-  <a href="../README.md"><img src="https://img.shields.io/badge/🏠-На_главную-808080?style=for-the-badge" alt="На главную"></a>
+<a href="10_networking.md"><img src="https://img.shields.io/badge/🌐-Сети-1E90FF?style=for-the-badge&logo=openvpn&logoColor=white" alt="Сети"></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/🏠-Главная-808080?style=for-the-badge" alt="Главная"></a>
+  <a href="12_cms.md"><img src="https://img.shields.io/badge/🧩-CMS-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="CMS"></a>
 </div>
 
 > 💬 *«Уговорил DeepSeek и Llama работать на ноутбуке, где еле помещается IDE. С генерацией котиков по запросу.»*
@@ -38,3 +39,5 @@
   <a href="10_networking.md"><img src="https://img.shields.io/badge/🌐-Сети-1E90FF?style=for-the-badge&logo=openvpn&logoColor=white" alt="Сети"></a>
   <a href="../README.md"><img src="https://img.shields.io/badge/🏠-На_главную-808080?style=for-the-badge" alt="На главную"></a>
 </div>
+
+---

@@ -26,9 +26,10 @@
 
 ---
 
-**Навигация:**
 <div align="center">
   <a href="07_automation.md"><img src="https://img.shields.io/badge/🤖-Автоматизация-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Автоматизация"></a>
   <a href="../README.md"><img src="https://img.shields.io/badge/🏠-На_главную-808080?style=for-the-badge" alt="На главную"></a>
   <a href="09_microservices.md"><img src="https://img.shields.io/badge/🍜-Микросервисы-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="Микросервисы"></a>
 </div>
+
+---

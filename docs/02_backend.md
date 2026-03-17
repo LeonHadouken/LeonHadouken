@@ -27,9 +27,10 @@
 
 ---
 
-**Навигация:**
 <div align="center">
   <a href="01_projects.md"><img src="https://img.shields.io/badge/📦-Проекты-FF6B6B?style=for-the-badge" alt="Проекты"></a>
   <a href="../README.md"><img src="https://img.shields.io/badge/🏠-На_главную-808080?style=for-the-badge" alt="На главную"></a>
   <a href="03_devops.md"><img src="https://img.shields.io/badge/☁️-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps"></a>
 </div>
+
+---

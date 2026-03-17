@@ -33,9 +33,10 @@
 
 ---
 
-**Навигация:**
 <div align="center">
   <a href="02_backend.md"><img src="https://img.shields.io/badge/🐍-Бэкенд-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Бэкенд"></a>
   <a href="../README.md"><img src="https://img.shields.io/badge/🏠-На_главную-808080?style=for-the-badge" alt="На главную"></a>
   <a href="04_frontend.md"><img src="https://img.shields.io/badge/🎨-Фронтенд-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Фронтенд"></a>
 </div>
+
+---

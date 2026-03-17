@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/ОС-Arch_Linux_(of_course)-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch">
   <img src="https://img.shields.io/badge/Режим-Хардкор-000000?style=for-the-badge" alt="Mode">
@@ -6,7 +8,6 @@
 
 <div align="center">
 
-> #### 🧠 *«Это не я умный, это документация полезная. И нейросетка подсказала.»*
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════════════╗
@@ -26,6 +27,22 @@
 ║                                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
+
+[![Дисклеймер: опыт, не учебники](https://img.shields.io/badge/Дисклеймер-Опыт,_не_учебники-8A2BE2?style=for-the-badge&logo=icloud&logoColor=white)]()
+
+> 💤 *Всё, что ты тут видишь — не выучено по учебникам.*  
+> *Это набитые шишки, ночные кошмары и архитектурные решения,*  
+> *пришедшие ко мне через хождения по мукам.*  
+> *Рабочие решения действительно приходят во сне.*  
+> *Жаль, что во сне нельзя сделать git commit.*  
+> *А работодатель не всегда даёт их логировать.*
+---
+🧠 **Я не помню всего этого синтаксиса.**  
+Я просто знаю, где искать ответы, и не наступаю на одни и те же грабли дважды.  
+(Ну, хотя бы трижды.)
+
+---
+
 <table style="border-collapse: collapse; border: 0px solid transparent; background-color: transparent; border-style: hidden; box-shadow: none; width: 100%;">
   <!-- Строка 1 -->
   <tr>
@@ -101,14 +118,29 @@
       <div style="display: flex; flex-direction: column; height: 100%;">
         <div style="margin-bottom: 8px;"><a href="docs/05_security.md"><b>🔒 Безопасность</b></a></div>
         <div style="margin-bottom: 8px;"><sub><i>«Kali стоит красиво на рабочем столе. Для важных дел. Иногда.»</i></sub></div>
-        <div>
-          <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white"> 
-          <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white"> 
-          <img src="https://img.shields.io/badge/-Nmap-004B87?style=flat-square"> 
-          <img src="https://img.shields.io/badge/-Metasploit-2A2A2A?style=flat-square">
-          <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white">
-          <img src="https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white">
-        </div>
+      <div>
+  <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-Nmap-004B87?style=flat-square"> 
+  <img src="https://img.shields.io/badge/-Metasploit-2A2A2A?style=flat-square">
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white">
+  <img src="https://img.shields.io/badge/-Nikto-00BFFF?style=flat-square">
+  <img src="https://img.shields.io/badge/-Hydra-FF6B6B?style=flat-square">
+  <img src="https://img.shields.io/badge/-theHarvester-800080?style=flat-square">
+  <img src="https://img.shields.io/badge/-XSStrike-FF6600?style=flat-square">
+  <img src="https://img.shields.io/badge/-WhatWeb-FF0000?style=flat-square">
+  <img src="https://img.shields.io/badge/-John_the_Ripper-512B2B?style=flat-square">
+  <img src="https://img.shields.io/badge/-Sqlmap-9F3E3E?style=flat-square">
+  <img src="https://img.shields.io/badge/-OpenVAS-00A95C?style=flat-square">
+  <img src="https://img.shields.io/badge/-ZAP-00549E?style=flat-square&logo=owasp&logoColor=white">
+  <img src="https://img.shields.io/badge/-AirCrack-008080?style=flat-square">
+  <img src="https://img.shields.io/badge/-Responder-4B0082?style=flat-square">
+  <img src="https://img.shields.io/badge/-Impacket-708090?style=flat-square">
+  <img src="https://img.shields.io/badge/-BloodHound-8B0000?style=flat-square">
+  <img src="https://img.shields.io/badge/-Mimikatz-000000?style=flat-square">
+  <img src="https://img.shields.io/badge/-Hashcat-FF4500?style=flat-square">
+</div>
       </div>
     </td>
     <!-- QA & Тестирование -->
@@ -171,7 +203,6 @@
           <img src="https://img.shields.io/badge/-Loki-6E2C6B?style=flat-square"> 
           <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
           <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white">
-          <img src="https://img.shields.io/badge/-Consul-F24C53?style=flat-square&logo=consul&logoColor=white">
         </div>
       </div>
     </td>
@@ -225,9 +256,12 @@
   </tr>
 </table>
 </div>
+
+---
 <p align="center">
   <img src="https://img.shields.io/badge/Фермы-тихо_растут-32CD32?style=for-the-badge" alt="Фермы">
   <img src="https://img.shields.io/badge/Капчи-не_пройдут-FF0000?style=for-the-badge" alt="Капчи">
   <img src="https://img.shields.io/badge/Прокси-свежие-1E90FF?style=for-the-badge" alt="Proxy">
   <img src="https://img.shields.io/badge/Мотыга-острая-8B4513?style=for-the-badge" alt="Мотыга">
 </p>
+---
