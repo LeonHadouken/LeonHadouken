@@ -66,18 +66,24 @@
       <div style="display: flex; flex-direction: column; height: 100%;">
         <div style="margin-bottom: 8px;"><a href="docs/02_backend.md"><b>🐍 Бэкенд</b></a></div>
         <div style="margin-bottom: 8px;"><sub><i>«SQL-инъекции? Не, не слышал (надеюсь).»</i></sub></div>
-        <div>
-          <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-          <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"> 
-          <img src="https://img.shields.io/badge/-DRF-ff1709?style=flat-square&logo=django&logoColor=white">
-          <img src="https://img.shields.io/badge/-REST%20API-25D366?style=flat-square">
-          <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-          <img src="https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white">
-          <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
-          <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black">
-          <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white">
-          <img src="https://img.shields.io/badge/-Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white">
-        </div>
+      <div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-DRF-ff1709?style=flat-square&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/-REST%20API-25D366?style=flat-square">
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white">
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black">
+  <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white">
+  <img src="https://img.shields.io/badge/-Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-FF4500?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white">
+  <img src="https://img.shields.io/badge/-Poetry-5A4FCF?style=flat-square&logo=poetry&logoColor=white">
+</div>
       </div>
     </td>
     <!-- DevOps & ОС -->
