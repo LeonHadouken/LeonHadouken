@@ -3,18 +3,20 @@
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
-║                       🔒 БЕЗОПАСНОСТЬ 🔒                      ║
+║                       🔒 БЕЗОПАСНОСТЬ 🔒                     ║
 ║                                                               ║
 ║                      «Иногда безопасник.»                     ║
 ║                                                               ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
-
+---
 <a href="04_frontend.md"><img src="https://img.shields.io/badge/🎨-Фронтенд-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Фронтенд"></a>
   <a href="../README.md"><img src="https://img.shields.io/badge/🏠-На_главную-808080?style=for-the-badge" alt="На главную"></a>
   <a href="06_qa.md"><img src="https://img.shields.io/badge/🧪-QA-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="QA"></a>
 </div>
+
+---
 
 > 💬 *«Kali стоит красиво на рабочем столе. Для важных дел. Иногда. Nmap на макросе, Metasploit на репите — чтобы не напрягаться лишний раз. Автоматизация — наше всё, даже взлом должен быть удобным.»*
 

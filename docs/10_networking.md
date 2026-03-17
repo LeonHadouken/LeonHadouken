@@ -10,12 +10,13 @@
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
-
-  
+---  
   <a href="09_microservices.md"><img src="https://img.shields.io/badge/🍜-Микросервисы-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="Микросервисы"></a>
   <a href="../README.md"><img src="https://img.shields.io/badge/🏠-На_главную-808080?style=for-the-badge" alt="На главную"></a>
   <a href="11_llm.md"><img src="https://img.shields.io/badge/🤖-Локальные_LLM-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Локальные LLM"></a>
 </div>
+
+---
 
 > 💬 *«Подниму VPN так, что провайдер утрётся, настрою маршрутизацию, чтобы пакеты летели быстрее курьера. Могу собрать свой VPN-сервер на коленке из старого ПК и коробки от пиццы. В DNS просто стрельни.»*
 

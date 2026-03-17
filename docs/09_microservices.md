@@ -11,10 +11,13 @@
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
+---
   <a href="08_databases.md"><img src="https://img.shields.io/badge/🗄️-Базы_данных-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Базы данных"></a>
   <a href="../README.md"><img src="https://img.shields.io/badge/🏠-На_главную-808080?style=for-the-badge" alt="На главную"></a>
   <a href="10_networking.md"><img src="https://img.shields.io/badge/🌐-Сети-1E90FF?style=for-the-badge&logo=openvpn&logoColor=white" alt="Сети"></a>
 </div>
+
+---
 
 > 💬 *«Зато быстро и голод утоляет. Накидал сервисов, настримил событий в RabbitMQ, а логи пусть в Loki текут рекой. Grafana потом красивые графики рисует, чтобы заказчик видел, как его деньги крутятся.»*
 

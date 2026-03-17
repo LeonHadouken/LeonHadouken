@@ -3,7 +3,7 @@
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
-║                       🤖 ЛОКАЛЬНЫЕ LLM 🤖                     ║
+║                       🤖 ЛОКАЛЬНЫЕ LLM 🤖                    ║
 ║                                                               ║
 ║               «Облака нет, только локальный AI.               ║
 ║                                                               ║
@@ -11,24 +11,25 @@
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
+
+---
 <a href="10_networking.md"><img src="https://img.shields.io/badge/🌐-Сети-1E90FF?style=for-the-badge&logo=openvpn&logoColor=white" alt="Сети"></a>
   <a href="../README.md"><img src="https://img.shields.io/badge/🏠-Главная-808080?style=for-the-badge" alt="Главная"></a>
   <a href="12_cms.md"><img src="https://img.shields.io/badge/🧩-CMS-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="CMS"></a>
 </div>
 
+---
+
 > 💬 *«Уговорил DeepSeek и Llama работать на ноутбуке, где еле помещается IDE. С генерацией котиков по запросу.»*
 
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Llama.cpp](https://img.shields.io/badge/Llama.cpp-FF6F00?style=for-the-badge&logo=llama&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4A6A9F?style=for-the-badge&logo=deepseek&logoColor=white)
-![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-8A2BE2?style=for-the-badge&logo=stabilityai&logoColor=white)
+### 🤖 **Локальные LLM**
 
-
-| Модель/Инструмент | Размер/Тип | Где крутится |
+| Модель | Размер/Тип | Где крутится |
 |------------------|------------|--------------|
-| 🦙 Llama 3 8B | Q4 квант | `на рабочем ноуте` |
-| 🐋 DeepSeek Coder | 6.7B | `помогает с кодом` |
-| 🎨 SDXL | 1.8B | `рисует по выходным` |
+| <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white">| Q4 квант | <img src="https://img.shields.io/badge/на_рабочем_ноуте-2E8B57?style=flat-square"> |
+| <img src="https://img.shields.io/badge/-Llama.cpp-FF6F00?style=flat-square&logo=llama&logoColor=white">| Инструмент | <img src="https://img.shields.io/badge/оптимизирует-FF8C00?style=flat-square"> |
+| <img src="https://img.shields.io/badge/-DeepSeek-4A6A9F?style=flat-square&logo=deepseek&logoColor=white"> | 6.7B | <img src="https://img.shields.io/badge/помогает_с_кодом-4169E1?style=flat-square"> |
+| <img src="https://img.shields.io/badge/-Stable_Diffusion-8A2BE2?style=flat-square&logo=stabilityai&logoColor=white"> | 1.8B | <img src="https://img.shields.io/badge/рисует_по_выходным-9370DB?style=flat-square"> |
 
 > 🎋 *«Облака нет, только локальный AI. Как самурай без господина, но с нейросеткой. »*
 

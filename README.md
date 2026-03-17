@@ -91,14 +91,19 @@
       <div style="display: flex; flex-direction: column; height: 100%;">
         <div style="margin-bottom: 8px;"><a href="docs/03_devops.md"><b>☁️ DevOps & ОС</b></a></div>
         <div style="margin-bottom: 8px;"><sub><i>«Докер — как швейцарский нож: 100500 функций, пользуюсь тремя.»</i></sub></div>
-        <div>
-          <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> 
-          <img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white"> 
-          <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
-          <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-          <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white">
-          <img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white">
-        </div>
+      <div>
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> 
+        <img src="https://img.shields.io/badge/-Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/-Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white"> 
+        <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
+        <img src="https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
+        <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
+        <img src="https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white">
+        <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white">
+        <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
+        <img src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white">
+      </div>
       </div>
     </td>
   </tr>
@@ -143,14 +148,12 @@
     <td width="33%" valign="top" align="center" style="border: 0px solid transparent; background-color: transparent; border-style: hidden; padding: 8px;">
       <div style="display: flex; flex-direction: column; height: 100%;">
         <div style="margin-bottom: 8px;"><a href="docs/06_qa.md"><b>🧪 QA & Тестирование</b></a></div>
-        <div style="margin-bottom: 8px;"><sub><i>«Соберу ферму аккаунтов, сделаю из них ботов — могу заспамить твою бывшую.»</i></sub></div>
+        <div style="margin-bottom: 8px;"><sub><i>«Пишу тесты, чтобы спать спокойно. Ну, или чтобы было чем заняться в пятницу вечером.»</i></sub></div>
         <div>
           <img src="https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"> 
           <img src="https://img.shields.io/badge/-Coverage-83B81A?style=flat-square&logo=codecov&logoColor=white">
           <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
           <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white">
-          <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white">
-          <img src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white">
         </div>
       </div>
     </td>
@@ -166,9 +169,6 @@
           <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"> 
           <img src="https://img.shields.io/badge/-Pyrogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"> 
           <img src="https://img.shields.io/badge/-Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white">
-          <img src="https://img.shields.io/badge/-AutoIt-135EA8?style=flat-square">
-          <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white">
-          <img src="https://img.shields.io/badge/-RPA-FF6F00?style=flat-square">
         </div>
       </div>
     </td>
