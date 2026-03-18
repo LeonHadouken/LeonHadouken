@@ -78,6 +78,7 @@
                         </div>
                     </a>
                 </div>
+                </br>
                 <!-- МЕСТО ДЛЯ ВАШИХ БЕЙДЖЕВ -->
                     <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
                         <img src="https://img.shields.io/badge/-Кастомные%20проекты-34495E?style=flat-square">
@@ -124,6 +125,7 @@
                         </div>
                     </a>
                 </div>
+                </br>
                 <!-- МЕСТО ДЛЯ ВАШИХ БЕЙДЖЕВ -->
                     <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
                         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -179,6 +181,7 @@
                         </div>
                     </a>
                 </div>
+                </br>
                 <!-- МЕСТО ДЛЯ ВАШИХ БЕЙДЖЕВ -->
                     <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
                         <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
@@ -231,6 +234,7 @@
                         </div>
                     </a>
                 </div>
+                </br>
                 <!-- МЕСТО ДЛЯ ВАШИХ БЕЙДЖЕВ -->
                     <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
                         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black">
@@ -276,6 +280,7 @@
                         </div>
                     </a>
                 </div>
+                </br>
                 <!-- МЕСТО ДЛЯ ВАШИХ БЕЙДЖЕВ -->
                     <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
                         <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white">
@@ -326,6 +331,7 @@
                         </div>
                     </a>
                 </div>
+                </br>
                 <!-- МЕСТО ДЛЯ ВАШИХ БЕЙДЖЕВ -->
                     <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
                         <img src="https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white">
@@ -372,6 +378,7 @@
                         </div>
                     </a>
                 </div>
+                </br>
                 <!-- МЕСТО ДЛЯ ВАШИХ БЕЙДЖЕВ -->
                     <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
                         <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white">
@@ -414,6 +421,7 @@
                         </div>
                     </a>
                 </div>
+                </br>
                 <!-- МЕСТО ДЛЯ ВАШИХ БЕЙДЖЕВ -->
                     <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
                         <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
@@ -460,6 +468,7 @@
                         </div>
                     </a>
                 </div>
+                </br>
                 <!-- МЕСТО ДЛЯ ВАШИХ БЕЙДЖЕВ -->
                     <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
                         <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
@@ -507,6 +516,7 @@
                         </div>
                     </a>
                 </div>
+                </br>
                 <!-- МЕСТО ДЛЯ ВАШИХ БЕЙДЖЕВ -->
                     <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
                         <img src="https://img.shields.io/badge/-VPN-3C873A?style=flat-square">
@@ -552,6 +562,7 @@
                         </div>
                     </a>
                 </div>
+                </br>
                 <!-- МЕСТО ДЛЯ ВАШИХ БЕЙДЖЕВ -->
                     <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
                         <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square">
@@ -597,6 +608,7 @@
                         </div>
                     </a>
                 </div>
+                </br>
                 <!-- МЕСТО ДЛЯ ВАШИХ БЕЙДЖЕВ -->
                     <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
                         <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
